@@ -1,0 +1,11 @@
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\bin\Debug\RichTextBox_kontrola.exe.config
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\bin\Debug\RichTextBox_kontrola.exe
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\bin\Debug\RichTextBox_kontrola.pdb
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\obj\Debug\RichTextBox_kontrola.csproj.AssemblyReference.cache
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\obj\Debug\RichTextBox_kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\obj\Debug\RichTextBox_kontrola.Form1.resources
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\obj\Debug\RichTextBox_kontrola.Properties.Resources.resources
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\obj\Debug\RichTextBox_kontrola.csproj.GenerateResource.cache
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\obj\Debug\RichTextBox_kontrola.csproj.CoreCompileInputs.cache
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\obj\Debug\RichTextBox_kontrola.exe
+C:\Users\linar\Documents\programiranje\WindowForm\RichTextBox_kontrola\RichTextBox_kontrola\obj\Debug\RichTextBox_kontrola.pdb
